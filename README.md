@@ -1,4 +1,4 @@
-# An Empirical Analysis of LLM-Powered Applications and Local Inference Frameworks
+# Security in the Wild: An Empirical Analysis of LLM-Powered Applications and Local Inference Frameworks
 
 This is the replication package 
 
